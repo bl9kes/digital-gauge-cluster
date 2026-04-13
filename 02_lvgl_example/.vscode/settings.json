@@ -1,0 +1,17 @@
+{
+  "idf.openOcdConfigs": [
+    "board/esp32s3-builtin.cfg"
+  ],
+  "idf.portWin": "COM6",
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32s3"
+  },
+  "clangd.path": "C:\\Users\\blake\\.espressif\\tools\\esp-clang\\esp-19.1.2_20250312\\esp-clang\\bin\\clangd.exe",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=C:\\Users\\blake\\.espressif\\tools\\xtensa-esp-elf\\esp-14.2.0_20251107\\xtensa-esp-elf\\bin\\xtensa-esp32s3-elf-gcc.exe",
+    "--compile-commands-dir=c:\\Users\\blake\\Downloads\\ESP32-S3-Touch-LCD-3.5-Demo\\ESP-IDF\\02_lvgl_example\\build"
+  ],
+  "idf.flashType": "UART",
+  "idf.currentSetup": "C:\\Users\\blake\\esp\\v5.5.3\\esp-idf"
+}

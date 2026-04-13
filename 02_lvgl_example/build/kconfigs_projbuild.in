@@ -1,0 +1,6 @@
+source "C:/Users/blake/esp/v5.5.3/esp-idf/components/bootloader/Kconfig.projbuild"
+source "C:/Users/blake/esp/v5.5.3/esp-idf/components/esp_app_format/Kconfig.projbuild"
+source "C:/Users/blake/esp/v5.5.3/esp-idf/components/esp_rom/Kconfig.projbuild"
+source "C:/Users/blake/esp/v5.5.3/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "C:/Users/blake/esp/v5.5.3/esp-idf/components/partition_table/Kconfig.projbuild"
+source "C:/Users/blake/Downloads/ESP32-S3-Touch-LCD-3.5-Demo/ESP-IDF/02_lvgl_example/main/Kconfig.projbuild"
